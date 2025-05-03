@@ -20,10 +20,10 @@
     "dark": "Zed (Default)"
   },
   // Font
-  "ui_font_family": "JetBrains Mono NL",
+  "ui_font_family": "JetBrainsMonoNL Nerd Font",
   "ui_font_size": 13,
   "ui_font_weight": 700,
-  "buffer_font_family": "JetBrains Mono NL",
+  "buffer_font_family": "JetBrainsMonoNL Nerd Font",
   "buffer_font_size": 13,
   "buffer_font_weight": 600,
   "relative_line_numbers": false,
@@ -161,7 +161,7 @@
   ],
   // Terminal
   "terminal": {
-    "font_family": "JetBrains Mono NL",
+    "font_family": "JetBrainsMonoNL Nerd Font",
     "font_size": 13,
     "line_height": "comfortable",
     "alternate_scroll": "off",
